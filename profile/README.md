@@ -55,6 +55,6 @@ We create open tools and resources to help people:
 ---
 
 > 🌟 **You don’t need to be a developer to contribute.**  
-Writers, developers, designers, testers, thinkers — everyone is welcome.
+Writers, designers, testers, thinkers — everyone is welcome.
 
 **Let’s co-create a digital world that works for everyone.**
