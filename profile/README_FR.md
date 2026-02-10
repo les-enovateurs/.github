@@ -44,6 +44,19 @@ Nous créons des outils et des ressources ouverts pour :
 
 ---
 
+## 🌱 Membre bienfaiteur
+### Catégorie Cuivre
+
+<a href="https://www.culture.gouv.fr/" target="_blank">
+
+![Soutenu par le Ministère de la Culture](../img/ministere-culture.svg)
+
+</a>
+
+Vous souhaitez devenir un membre bienfaiteur ? [Contactez-nous (contact@les-enovateurs.com)](mailto:contact@les-enovateurs.com) pour en savoir plus sur les différentes catégories de soutien.
+
+---
+
 ## 📢 Suivre, soutenir, contribuer
 
 🧑‍💻 [Explorez notre GitHub](https://github.com/les-enovateurs)  

@@ -45,6 +45,19 @@ We create open tools and resources to help people:
 
 ---
 
+## 🌱 Benefactor member
+### Category Copper
+
+<a href="https://www.culture.gouv.fr/" target="_blank">
+
+![Supported by the French Ministry of Culture](../img/ministere-culture.svg)
+
+</a>
+
+You want to support our work? [Contact us (contact@les-enovateurs.com) ](mailto:contact@les-enovateurs.com) to learn more about our support programs.
+
+---
+
 ## 📢 Follow, Support, Contribute
 
 🧑‍💻 [Explore our GitHub](https://github.com/les-enovateurs)  
